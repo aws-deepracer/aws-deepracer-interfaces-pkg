@@ -72,6 +72,7 @@ set(srv_files
   "srv/USBMountPointManagerSrv.srv"
   "srv/VerifyModelReadySrv.srv"
   "srv/VideoStateSrv.srv"
+  "srv/GetCtrlModesSrv.srv"
 )
 
 

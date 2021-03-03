@@ -40,9 +40,9 @@ Open up a terminal on the DeepRacer device and run the following commands as roo
 
 1. Resolve the deepracer_inferfaces_pkg dependencies:
 
-        cd ~/deepracer_ws && rosdep install -i --from-path . --rosdistro foxy -y
+        cd ~/deepracer_ws/aws-deepracer-interfaces-pkg && rosdep install -i --from-path . --rosdistro foxy -y
 
 1. Build the deepracer_interfaces_pkg:
 
-        cd ~/deepracer_ws && colcon build --packages-select deepracer_interfaces_pkg
+        cd ~/deepracer_ws/aws-deepracer-interfaces-pkg && colcon build --packages-select deepracer_interfaces_pkg
 

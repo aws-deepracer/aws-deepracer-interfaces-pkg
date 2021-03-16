@@ -2,7 +2,7 @@
 
 ## Overview
 
-The DeepRacer Interfaces ROS package is a foundational package that creates the custom service and message types that are used in the core AWS DeepRacer application. These services and messages defined are shared across the packages that are part of the AWS DeepRacer application. More details about the application and the components can be found [here](https://github.com/aws-racer/aws-deepracer-launcher).
+The DeepRacer Interfaces ROS package is a foundational package that creates the custom service and message types that are used in the core AWS DeepRacer application. These services and messages defined are shared across the packages that are part of the AWS DeepRacer application. More details about the application and the components can be found [here](https://github.com/awsdeepacer/aws-deepracer-launcher).
 
 ## License
 
@@ -12,7 +12,7 @@ The source code is released under Apache 2.0 (https://aws.amazon.com/apache-2-0/
 
 ### Prerequisites
 
-More details about pre installed set of packages and libraries on the DeepRacer, and installing required build systems can be found in the [Getting Started](https://github.com/aws-racer/aws-deepracer-launcher/blob/main/getting-started.md) section of the AWS DeepRacer Opensource page.
+More details about pre installed set of packages and libraries on the DeepRacer, and installing required build systems can be found in the [Getting Started](https://github.com/awsdeepracer/aws-deepracer-launcher/blob/main/getting-started.md) section of the AWS DeepRacer Opensource page.
 
 The deepracer_inferfaces_pkg specifically depends on the following ROS2 packages as build and execute dependencies:
 
@@ -36,7 +36,7 @@ Open up a terminal on the DeepRacer device and run the following commands as roo
 
 1. Clone the deepracer_interfaces_pkg on the DeepRacer device:
 
-        git clone https://github.com/aws-racer/aws-deepracer-interfaces-pkg.git
+        git clone https://github.com/awsdeepacer/aws-deepracer-interfaces-pkg.git
 
 1. Resolve the deepracer_inferfaces_pkg dependencies:
 

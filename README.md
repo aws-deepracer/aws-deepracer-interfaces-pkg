@@ -46,3 +46,7 @@ Open up a terminal on the DeepRacer device and run the following commands as roo
 
         cd ~/deepracer_ws/aws-deepracer-interfaces-pkg && colcon build --packages-select deepracer_interfaces_pkg
 
+## Resources
+
+* AWS DeepRacer Opensource getting started: [https://github.com/awsdeepracer/aws-deepracer-launcher/blob/main/getting-started.md](https://github.com/awsdeepracer/aws-deepracer-launcher/blob/main/getting-started.md)
+

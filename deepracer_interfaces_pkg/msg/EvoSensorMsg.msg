@@ -5,4 +5,4 @@
 # array of distance values read from the LiDAR sensor.
 sensor_msgs/Image[] images    # Image data read from cameras.
 float32[] lidar_data          # LiDAR distance data read from LiDAR sensor.
-sensor_msgs/Imu imu           # IMU Data
+sensor_msgs/Imu imu_data      # IMU Data

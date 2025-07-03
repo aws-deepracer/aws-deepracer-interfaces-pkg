@@ -2,7 +2,7 @@
 
 ## Overview
 
-The AWS DeepRacer interfaces ROS package is a foundational package that creates the custom service and message types that are used in the core AWS DeepRacer application. These services and messages are shared across the packages that are part of the AWS DeepRacer application. For more details about the application and the components, see the [aws-deepracer-launcher repository](https://github.com/awsdeepacer/aws-deepracer-launcher).
+The AWS DeepRacer interfaces ROS package is a foundational package that creates the custom service and message types that are used in the core AWS DeepRacer application. These services and messages are shared across the packages that are part of the AWS DeepRacer application. For more details about the application and the components, see the [aws-deepracer-launcher repository](https://github.com/awsdeepracer/aws-deepracer-launcher).
 
 ## License
 
